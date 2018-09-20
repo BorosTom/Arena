@@ -1,5 +1,5 @@
 -- CONSTANTS
-
+-- SZIIIAAAAA TOMI
 
 -- DATA
 ID = os.getComputerID()
